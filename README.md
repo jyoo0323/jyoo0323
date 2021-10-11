@@ -1,6 +1,6 @@
 ## 👋 Hello There! I’m Jonghyun John Yoo a beginner developer
 - 🌱  On my way to be a junior developer.
-- 📫 You reach me via eamil: jonghyun.yoo0323@gmail.com
+- 📫 You can reach me via eamil: jonghyun.yoo0323@gmail.com
 
 ## 🛠 My Tech Stacks:
 #### 🧱 Languages:
