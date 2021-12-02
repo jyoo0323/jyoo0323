@@ -24,5 +24,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 #### My Organizations: 
-CobongBob: https://github.com/cobongBob  
-The Six: https://github.com/TheSix-MSA  
+- CobongBob: https://github.com/cobongBob  
+- The Six: https://github.com/TheSix-MSA  
