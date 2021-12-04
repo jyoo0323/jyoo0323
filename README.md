@@ -29,7 +29,3 @@
 jyoo0323/jyoo0323 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-#### 🤜🤛 I've Participated in: 
-- 🍚 CobongBob: https://github.com/cobongBob  
-- 🁯 The Six: https://github.com/TheSix-MSA  
