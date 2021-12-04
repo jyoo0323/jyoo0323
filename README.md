@@ -18,6 +18,9 @@
 #### ⚙️ Others:
 - <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a> <img src="https://img.shields.io/badge/HTML-ec8332?style=flat-square&logo=Html5&logoColor=white"/></a> <img src="https://img.shields.io/badge/CSS-3459ec?style=flat-square&logo=CSS3&logoColor=white"/></a>
 
+#### 📣 Communication Tools:
+- <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira Software&logoColor=white"/></a>
+
 #### 📒 I've used:
 - <img src="https://img.shields.io/badge/Oracle-ea2032?style=flat-square&logo=Oracle&logoColor=white"/></a> <img src="https://img.shields.io/badge/MongoDB-1ea40f?style=flat-square&logo=MongoDB&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Node-13c81b?style=flat-square&logo=Node.js&logoColor=white"/></a> <img src="https://img.shields.io/badge/express-13c81b?style=flat-square&logo=Express&logoColor=white"/></a>
