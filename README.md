@@ -4,7 +4,7 @@
 
 ## 🛠 My Tech Stacks:
 #### 🧱 Languages:
-- <img src="https://img.shields.io/badge/Java-68503c?style=flat-square&logo=Java&logoColor=white"/> </a> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/Javascript-e0ee49?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+- <img src="https://img.shields.io/badge/Java-68503c?style=flat-square&logo=Java&logoColor=white"/> </a> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/Javascript-e0ee49?style=flat-square&logo=JavaScript&logoColor=white"/></a> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/></a>
 
 
 #### 🏗 Frameworks:
