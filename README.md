@@ -4,16 +4,16 @@
 
 ## 🛠 My Tech Stacks:
 #### 🧱 Languages:
-- <img src="https://img.shields.io/badge/Java-68503c?style=flat-square&logo=Java&logoColor=white"/> </a> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/Javascript-e0ee49?style=flat-square&logo=JavaScript&logoColor=white"/></a> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/></a>
+- <img src="https://img.shields.io/badge/Java-007396c?style=flat-square&logo=Java&logoColor=white"/> </a> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/></a>
 
 
 #### 🏗 Frameworks:
 - <img src="https://img.shields.io/badge/Spring-14dd46?style=flat-square&logo=Spring&logoColor=white"/></a> <img src="https://img.shields.io/badge/Spring Boot-14dd46?style=flat-square&logo=Spring-Boot&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Flask-65a5f1?style=flat-square&logo=Flask&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/></a> <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 
 #### 💾 Database:
-- <img src="https://img.shields.io/badge/MySql-150748?style=flat-square&logo=Mysql&logoColor=white"/></a> <img src="https://img.shields.io/badge/MariaDb-150748?style=flat-square&logo=Mariadb&logoColor=white"/></a> 
+- <img src="https://img.shields.io/badge/MySQL-150748?style=flat-square&logo=Mysql&logoColor=white"/></a> <img src="https://img.shields.io/badge/MariaDb-150748?style=flat-square&logo=Mariadb&logoColor=white"/></a> 
 
 #### ⚙️ Others:
 - <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a> <img src="https://img.shields.io/badge/HTML-ec8332?style=flat-square&logo=Html5&logoColor=white"/></a> <img src="https://img.shields.io/badge/CSS-3459ec?style=flat-square&logo=CSS3&logoColor=white"/></a>
