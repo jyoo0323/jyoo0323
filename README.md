@@ -1,5 +1,5 @@
-## 👋 Hello There! I’m Jonghyun John Yoo a beginner developer
-- 🌱  On my way to be a junior developer.
+## 👋 Hello There! I’m Jonghyun John Yoo!
+- 🌱  Junior Back-end Software Engineer.
 - 📫 You can reach me via eamil: jonghyun.yoo0323@gmail.com
 
 ## 🛠 My Tech Stacks:
