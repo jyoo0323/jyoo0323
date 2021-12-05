@@ -16,7 +16,7 @@
 - <img src="https://img.shields.io/badge/MySQL-150748?style=flat-square&logo=Mysql&logoColor=white"/></a> <img src="https://img.shields.io/badge/MariaDb-150748?style=flat-square&logo=Mariadb&logoColor=white"/></a> 
 
 #### ⚙️ Others:
-- <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a> <img src="https://img.shields.io/badge/HTML-ec8332?style=flat-square&logo=Html5&logoColor=white"/></a> <img src="https://img.shields.io/badge/CSS-3459ec?style=flat-square&logo=CSS3&logoColor=white"/></a>
+- <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
 
 #### 📣 Communication Tools:
 - <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira Software&logoColor=white"/></a>
